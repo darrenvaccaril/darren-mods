@@ -1,0 +1,7 @@
+{
+  "name": "darren-mods",
+  "owner": { "name": "Darren Vaccaril" },
+  "plugins": [
+    { "name": "conso", "source": "./conso", "description": "Barre de consommation au-dessus de la saisie : contexte, limites 5 h et semaine, coût" }
+  ]
+}
